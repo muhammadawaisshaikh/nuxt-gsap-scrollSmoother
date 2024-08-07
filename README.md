@@ -1,2 +1,1 @@
-# nuxt-gsap-scrollSmoother
-using GSAP ScrollSmoother in a Nuxt3 App
+# Nuxt 3 with GSAP ScrollSmoother
